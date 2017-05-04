@@ -186,6 +186,10 @@
           <option name="url" value="https://github.com/shaojung/YVD050401" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/shaojung/YVD050402" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\YVTC\AndroidStudioProjects\Teacher" />
